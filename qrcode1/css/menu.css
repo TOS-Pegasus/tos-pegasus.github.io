@@ -92,14 +92,7 @@ a, button {
   position: relative;
 }
 
-.nav nav a>img {
-  position: absolute;
-  top: 6px;
-  left: 6px;
-  width: 18px;
-  height: 18px;
-  display: inline;
-}
+
 
 .nav nav a>p {
   font-size: 18px;
