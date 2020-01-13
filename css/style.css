@@ -1,9 +1,9 @@
 html, body {
   padding: 0px;
   margin: 0px;
-  background: #ffffff;
+  background: #white;
   font-family: 'Raleway', sans-serif;
-  color: ##00ff77;
+  color: ##0051ff;
   overflow-x: hidden;
 }
 
@@ -40,7 +40,7 @@ html, body {
 
 .info .dark {
   border: 1px solid #227888;
-  background: #222;
+  background: white;
   text-align: center;
 }
 
